@@ -174,8 +174,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //순열 dfs
-
-
     public int dfsTest2(int A, int B, int C) {
         A = 1;
         B = 1;
