@@ -1,2 +1,2 @@
 # android
-intial git
+initial git
