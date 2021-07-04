@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_collection.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\layout\\activity_photo_collection.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_button_search.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\layout\\layout_button_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_unsplash.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_unsplash.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_insert_photo_24.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_baseline_insert_photo_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_photo_item.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\layout\\layout_photo_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bg_gray.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\rounded_bg_gray.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_library_black_24dp.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_photo_library_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bg_pink.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\rounded_bg_pink.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_app_bar.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\menu\\top_app_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidProjects\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\android_unsplash_api_tutorial-03_photo_grid_recyclerview\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
